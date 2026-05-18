@@ -1,4 +1,3 @@
-[README (3) (1).md](https://github.com/user-attachments/files/27970284/README.3.1.md)
 # 🍽️ YEMEK TARİF PLATFORMU
 
 Profesyonel ve kullanıcı dostu bir Yemek Tarif Platformu. PyQt5 ile geliştirilmiş, SQLite veritabanı desteğine sahip, modern ve lüks bir arayüz sunmaktadır.
